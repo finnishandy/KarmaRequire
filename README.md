@@ -13,3 +13,9 @@ $ npm install
 Run tests:
 
 use karma plugin for Idea.
+
+Libraries used
+http://requirejs.org/
+http://jasmine.github.io/
+https://github.com/dfahlander/Dexie.js/wiki/Dexie
+https://github.com/karma-runner/karma-phantomjs-launcher
